@@ -17,6 +17,7 @@ This is my self-paced learning and experience path into CyberSecurity
 # HTB Progress
 - https://labs.hackthebox.com/achievement/machine/2384315/394
 - https://labs.hackthebox.com/achievement/machine/2384315/393
+- https://labs.hackthebox.com/achievement/machine/2384315/395
 
 # LANGUAGES
 English | Arabic
