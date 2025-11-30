@@ -32,7 +32,11 @@ This is my self-paced learning and experience path into CyberSecurity
 - AnonSurf ~ Moderate Experience
 - SSH & Remote Desktop GUI - Moderate Experience
 
-
+# Progamming Language Experience
+- C/C++ - Moderate Experience
+- Python - Moderate to high Experience
+- HTML/CSS - Moderate Experience
+  
 # HackTheBox Progress
 - https://labs.hackthebox.com/achievement/machine/2384315/394
 - https://labs.hackthebox.com/achievement/machine/2384315/393
